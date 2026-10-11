@@ -1,0 +1,42 @@
+{
+  "stage3_coefficient_certificates.json": {
+    "canonical_sha256": "ee4ed60d3151880b4dfa1601278327b9a533706d6945d6ebbd337f7dd78260e6",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "stage3_finite_constant_certificates.json": {
+    "canonical_sha256": "153c0b348d6115c105570ece54cd716f2e2e304255cb096a66b674cc74839d19",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "stage3_coefficient_adversarial_certificates.json": {
+    "canonical_sha256": "6335317a9e07ed9f87da5faec16a7c8a20b005e8b9c6b97137344670fc73a491",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "stage3_finite_radius_certificate.json": {
+    "canonical_sha256": "f12b29c5be2ec45fec6aea81182b2f497081cdbc496cbb12058bb9aa0c65679f",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "payment_slack_diagnostic.json": {
+    "canonical_sha256": "547a88e834fde2c3818d0d72c94225b4837b5430148bdc24759b549a120aa985",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "certificates.json": {
+    "canonical_sha256": "6caaee9156de406b76cb3e0af3aea76df979a1c1eea1b976b5c31b656c74f6d4",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "power_family_certificates.json": {
+    "canonical_sha256": "69efca2caabf2f1efc5924419ee0637cbff2a4992a060fa8d4254907a07cbacb",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "power_family_bounds.json": {
+    "canonical_sha256": "c33f3ca21794ec508319ccac2a5708d17c891e5c1ada1a368d6dae240830ccf6",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "public_precision_certificate.json": {
+    "canonical_sha256": "99ccc2b6ca4da30a5d412c0ed38c0158d2762ae0ae21fa1d23143e8e6b1faa27",
+    "normalization": "canonical JSON; no fields excluded"
+  },
+  "interval_kernel_checks.json": {
+    "canonical_sha256": "66965d8a40f7ab8ba79b6db14fb86c34263ee9b6282590595bd4e109c56d588f",
+    "normalization": "canonical JSON; no fields excluded"
+  }
+}

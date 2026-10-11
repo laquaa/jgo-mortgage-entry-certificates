@@ -1,0 +1,13 @@
+{
+  "checks_passed": 6,
+  "checks": {
+    "margin polynomial unchanged": true,
+    "mean severity exact": true,
+    "original mean collateral 11/10": true,
+    "funding negative on full pricing bracket": true,
+    "negative collateral has positive support interval": true,
+    "both incumbent promises identically zero": true
+  },
+  "proof_scope": "primitive invariance and domain signs; monotone-gain immunity is analytic",
+  "funding_upper_rational": "-703/48000"
+}

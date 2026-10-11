@@ -1,0 +1,15 @@
+{
+  "certificate_checks.py": "82715f9a78cc681af0b630f0efa3b3a81b9f46f15e3821f374a248be2e083897",
+  "interval_kernel_checks.py": "23ccd327a6312ceaf8c5b469a265bcb857b43097727abc68914e83fd2f37325b",
+  "interval_utils.py": "6edb744f39c824c4ed318e46d4e365e7fe84bfd7c7f238dad29b673555a793d5",
+  "numeric/precision_certificate.py": "a2bb7b401dba21bb10f725cb94361e7fdda97896a10b534d7b9a83aa6d8500d3",
+  "payment_slack_diagnostic.py": "18eb2054cbef1c0efaeab2a8cbd8394a3765f059f27c3bd4ba80170087b869cc",
+  "power_family_bounds.py": "0c46015d114ff2f32fb145eb1ef54e1832ab4763623a3fe53a46adf6549cfa14",
+  "power_family_checks.py": "8bb503ac0a6a852c4b2243320b76ef4afb9e88b7e763794a82c17dd9ef81d482",
+  "public_precision_certificate.py": "da8b47ca27f4ae64314718412e749cf5622e00c0b849069d38286f7080a19da2",
+  "stage3_coefficient_adversarial_checks.py": "dc5d5281c52df5adc3e23b14a342974ad479c3a1e8cb01a5b7075306bd244d8e",
+  "stage3_coefficient_checks.py": "65d38931a4d3dc5c55afc9631aa5ca554ba7e51ed727dbfb505d98a3ac4f4740",
+  "stage3_finite_constant_checks.py": "8a14fb472fc923e65d68d63ab891d1e37ba936a0079ce0c1e3dc6579a2115f5d",
+  "stage3_finite_radius_certificate.py": "4651efd247c8ba672548631242bd104c75450bf6f0e760dfe5cc2fa3e9624f2c",
+  "verify_certificates.py": "282ee4bb448b14fb8a05fdd1e270b5d67d710687b7528765b30025b7f6552c61"
+}
